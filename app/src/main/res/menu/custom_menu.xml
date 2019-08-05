@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+            android:id="@+id/action"
+            android:icon="@drawable/ic_sharp_event_available_24px"
+            app:showAsAction="always|withText"
+            android:title="@string/actions">
+        <menu>
+            <item android:title="Create Event"/>
+            <item android:title="Add Friend"/>
+            <item android:title="Delete Chat"/>
+            <item android:title="Block User"/>
+            <item android:title="Report"/>
+        </menu>
+    </item>
+</menu>

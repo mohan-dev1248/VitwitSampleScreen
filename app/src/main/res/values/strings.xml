@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VitwitSampleScreen</string>
+    <string name="title">VishruthReddy</string>
+    <string name="name">Name Surname</string>
+    <string name="message">I came to me</string>
+    <string name="time">5m</string>
+    <string name="say_something">Say Something...</string>
+    <string name="actions">Actions</string>
+</resources>
